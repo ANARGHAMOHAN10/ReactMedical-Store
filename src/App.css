@@ -1,0 +1,11 @@
+.background {
+    background-image: url('https://5.imimg.com/data5/VR/BA/MY-3944699/medical-store-interior-designing-500x500.jpg');
+   
+    background-position: center; /* Adjust as needed */
+ 
+    background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+    /* Add more styles as needed */
+}
